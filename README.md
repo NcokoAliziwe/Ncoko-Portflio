@@ -9,7 +9,7 @@
   <a href="https://github.com/NcokoAliziwe">GitHub</a> •
   <a href="tel:0792526142">Phone</a>
 </p>
----
+
 
 ## 👋 About Me
 
