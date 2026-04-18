@@ -1,13 +1,14 @@
 # Aliziwe Ncoko - Portfolio
 
-<div align="center">
+<p align="center">
+  <em>Junior Full-Stack Developer | UI/UX Designer</em>
+</p>
 
-*Junior Full-Stack Developer | UI/UX Designer*
-
-[Email](mailto:221171592@mycput.ac.za) • [GitHub](https://github.com/NcokoAliziwe) • [Phone](tel:0792526142)
-
-</div>
-
+<p align="center">
+  <a href="mailto:221171592@mycput.ac.za">Email</a> •
+  <a href="https://github.com/NcokoAliziwe">GitHub</a> •
+  <a href="tel:0792526142">Phone</a>
+</p>
 ---
 
 ## 👋 About Me
